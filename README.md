@@ -1,4 +1,4 @@
-**Hi, my name is İsmail Caner** 👋,
+**Hi, my name is İsmail Caner** 👋,<br />
 **I am frontend developer.**
 
 minimalist, coffee lover and photographer.
