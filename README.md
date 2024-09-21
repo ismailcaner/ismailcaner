@@ -1,7 +1,7 @@
 **Hi, my name is İsmail Caner** 👋,<br />
 **I am frontend developer.**
 
-minimalist, coffee lover and photographer.
+Minimalist, coffee lover and photographer.
 
 [My personal website &rarr;](https://ismailcaner.com)<br />
 [My side project&rarr;](https://inspov1.vercel.app/)<br />
