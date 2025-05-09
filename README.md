@@ -1,4 +1,4 @@
-**Hey, I'm İsmail Caner** 👋
+**Hey, I'm İsmail Caner** 👋🏻
 
 I'm a [Frontend developer](https://www.linkedin.com/in/canerdev/), and minimalist, coffe lover, [photographer](https://ismailcaner.com/photos)
 
